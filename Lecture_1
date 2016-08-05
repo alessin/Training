@@ -1,0 +1,6 @@
+#EdEx course practice progress. 
+height <- 2
+width <- 4
+area <- height * width
+area
+rm(area) # remove a variable if the workbook is getting unwieldy 
